@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (3.1.5)
+  - IQKeyboardManagerSwift (4.0.3)
+  - SDCycleScrollView (1.65):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - SnapKit (0.15.0)
+  - SwiftDate (3.0.8)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.1.0)
+  - IQKeyboardManagerSwift
+  - SDCycleScrollView (~> 1.65)
+  - SDWebImage (~> 3.8.1)
+  - SnapKit (~> 0.15.0)
+  - SwiftDate
+  - SwiftyJSON (~> 2.3.2)
+
+SPEC CHECKSUMS:
+  Alamofire: 5f730ba29fd113b7ddd71c1e65d0c630acf5d7b0
+  IQKeyboardManagerSwift: b6883b720b0e76473692fdc80828442566e1075f
+  SDCycleScrollView: f72904c77698a7f93a41bcbbc2d78b073bf7326c
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  SnapKit: 4962eed2ee18e48cbd2b2292fffc57efe7235f87
+  SwiftDate: 971f8b9394f664f2226b9c3ab64e801a7291c612
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: d325b9255144e424f91a48c031c663ba24b949d9
+
+COCOAPODS: 1.0.1

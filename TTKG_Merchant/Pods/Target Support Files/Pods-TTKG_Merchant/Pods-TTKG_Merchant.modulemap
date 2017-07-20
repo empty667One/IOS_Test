@@ -1,0 +1,6 @@
+framework module Pods_TTKG_Merchant {
+  umbrella header "Pods-TTKG_Merchant-umbrella.h"
+
+  export *
+  module * { export * }
+}

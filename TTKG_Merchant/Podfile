@@ -1,0 +1,29 @@
+# Uncomment this line to define a global platform for your project
+ platform :ios, '8.0'
+
+target 'TTKG_Merchant' do
+  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+	pod 'SDWebImage', '~> 3.8.1'
+    pod 'Alamofire', '~> 3.1.0'
+    pod 'SDCycleScrollView', '~> 1.65'
+    pod 'SwiftyJSON', '~> 2.3.2'
+    pod 'SnapKit', '~> 0.15.0'
+    pod "SwiftDate"
+#    pod 'RealmSwift'
+	pod 'IQKeyboardManagerSwift'
+
+  # Pods for TTKG_Merchant
+
+  target 'TTKG_MerchantTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'TTKG_MerchantUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
